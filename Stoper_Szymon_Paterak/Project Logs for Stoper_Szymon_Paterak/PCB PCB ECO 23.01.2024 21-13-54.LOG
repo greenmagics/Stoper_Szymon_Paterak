@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Vin Pin=J2-2
+Added Pin To Net: NetName=Vin Pin=MOD1-29
+Added Net: Name=Vin
+Added Member To Class: ClassName=schemat Member=Component R1 1k
